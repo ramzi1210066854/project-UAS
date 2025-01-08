@@ -1,13 +1,16 @@
 class DataMahasiswa:
-    """Kelas untuk merepresentasikan data mahasiswa."""
-    
-    def _init_(self):
+    """kelas untuk mempresentasikan data mahasiswa."""
+
+    def init(self):
         self.daftar_mahasiswa = []
 
-    def tambah(self, nama, nilai):
-        """Menambah data mahasiswa."""
-        self.daftar_mahasiswa.append({'nama': nama, 'nilai': nilai})
-
+        def tambah(self,nama,nilai):
+            """menambah data mahasiswa."""
+            self.daftar_mahasiswa.append({'nama:nama,nilai':nilai})
+        
     def get_data(self):
-        """Mengembalikan daftar mahasiswa."""
-        return self.daftar_mahasiswa
+        self.new_method()
+        return self.Data_Mahasiswa
+
+    def new_method(self):
+        ''''mengembalikan daftar mahasiswa.'''
