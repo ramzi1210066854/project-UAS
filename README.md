@@ -1,4 +1,8 @@
 # project-UAS
+NAMA: Muhamad valentino ramzi
+NIM: 312410454
+KELAS:TI 24 A5
+
 CLASS DATA
 [11.52, 8/1/2025] Valen: class DataMahasiswa: """kelas untuk mempresentasikan data mahasiswa."""
 
