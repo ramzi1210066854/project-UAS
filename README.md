@@ -16,3 +16,6 @@ CLASS MAIN
 def main(): process = MahasiswaProcess() view = MahasiswaView()
 
 f name == "main": main(). berikan penjelasan tentang kodingan tersebut
+
+
+  link YOU TUBE : [vidio tutorial](https://www.youtube.com/watch?v=juyHs3T5m7I&t=7s)
